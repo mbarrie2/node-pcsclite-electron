@@ -1,8 +1,10 @@
 # node-pcsclite
 
-[![npm](https://img.shields.io/npm/v/@pokusew/pcsclite.svg)](https://www.npmjs.com/package/@pokusew/pcsclite)
-[![build status](https://img.shields.io/github/actions/workflow/status/pokusew/node-pcsclite/ci.yml?logo=github)](https://github.com/pokusew/node-pcsclite/actions/workflows/ci.yml)
+[![npm](https://img.shields.io/npm/v/@mbarrie2/pcsclite.svg)](https://www.npmjs.com/package/@mbarrie2/pcsclite)
+[![build status](https://img.shields.io/github/actions/workflow/status/mbarrie2/node-pcsclite/ci.yml?logo=github)](https://github.com/mbarrie2/node-pcsclite/actions/workflows/ci.yml)
 [![node-pcsclite channel on discord](https://img.shields.io/badge/discord-join%20chat-61dafb.svg?logo=discord&logoColor=white)](https://discord.gg/bg3yazg)
+
+This package is authored by @pokusew/pcsclite. But the error of making the module context aware for applications in **Electron** has been solved
 
 Bindings over pcsclite to access Smart Cards. It works in **Linux**, **macOS** and **Windows**.
 
